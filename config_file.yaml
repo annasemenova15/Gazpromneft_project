@@ -1,0 +1,4 @@
+INPUT_FILE_NAME: 'data_python_modified.xlsx'
+MONTH: '2023-04-01'
+PERCENT_LOADING: 0.5
+M: 10000000000
