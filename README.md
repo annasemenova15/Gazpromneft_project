@@ -11,7 +11,7 @@ There are several restrictions, that need to be satisfied:
 - For some oil bases there should be a percent loading threshold which should be overcome
 
 
-This directory contains source data in excel format 'opt_data_gen (1).xlsb', which contains data on petrol volume required for petrol stations, 
+This directory contains source data in excel format 'opt_data_gen.xlsb', which contains data on petrol volume required for petrol stations, 
 volume of petrol available on the oil bases, and information on connections between oil bases and petrol stations (in terms of distances, costs).
 Secondly, there is a configuration file with constants that can be entered by user. It includes file name, month for which the model will calculate costs, set of regions to choose,
 types of upper and lower bounds for supply restrictions (which can be calculated for products or for group of products, such as diesel/petrol),
