@@ -1,4 +1,4 @@
-INPUT_FILE_NAME: 'opt_data_gen (1).xlsb'
+INPUT_FILE_NAME: 'opt_data_gen.xlsb'
 MONTH: 1
 REGION: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]
 PERCENT_LOADING: 0.1
