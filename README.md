@@ -24,4 +24,4 @@ The most optimal solutions are obtained on CVXPY and PuLP libraries, both workin
 In order to interact with the model, the user should fill the configuration file, and launch the file.
 The output of the model will be the distribution of the volumes of each product delivered for each petrol stations from oilbases and the final cost of solution.
 
-As a result the lowest cost (84 million rubles) obtained on PuLP CBC is significantly lower than the proposed baseline (267 million rubles), and works approximately 30 minutes.
+As a result the lowest cost (84 million rubles) obtained on CVXPY CBC is significantly lower than the proposed baseline (267 million rubles), and works approximately 30 minutes.
